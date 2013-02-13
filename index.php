@@ -101,7 +101,7 @@
 				<div id="BeerPic">
 				<img src="/kegerface/images/SRM <?php echo $srm['Beer2']; ?>.png" height="150">
 			</div>	
-				<div id="BeerNamel">
+				<div id="BeerName">
 				<?php echo "<h1>", $beername['Beer2'], "</h1>";
 					echo "<h2>", $style['Beer2'], "<br />", $whobrew['Beer2'], "</h2>"; ?>
 			</div>
